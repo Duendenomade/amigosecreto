@@ -1,0 +1,1 @@
+Projeto amigo secreto criado para testar e praticar os ensinamentos adquiridos no curso alura de programação, no desafio desenvolvido em java script, o usuário poderá usar o site para adicionar nomes e sortear amigos.
